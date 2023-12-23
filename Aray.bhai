@@ -1,0 +1,15 @@
+hi bhai
+    bhai ye hai a = 10;
+    bhai ye hai b = 20;
+    bhai ye hai c = a + b;
+    bol bhai c;
+    agar bhai (c > 30){
+        bol bhai "Bara ha 30 sa";
+    }
+    nahi to bhai(c > 20){
+        bol bhai "Bara ha 20 sa";
+    }
+    warna bhai{
+        bol bhai "Bas Bara ha";
+    }
+bye bhai
